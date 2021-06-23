@@ -5,5 +5,6 @@ authors = ["Roman Isaikin <romix.lab@gmail.com>"]
 edition = "2018"
 repository = "https://github.com/romixlab/log2fix"
 description = "no_std fixed-point base 2, e and 10 logarithm algorithm implementation"
+license = "MIT"
 
 [dependencies]
