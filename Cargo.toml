@@ -3,7 +3,7 @@ name = "log2fix"
 version = "0.1.0"
 authors = ["Roman Isaikin <romix.lab@gmail.com>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+repository = "https://github.com/romixlab/log2fix"
+description = "no_std fixed-point base 2, e and 10 logarithm algorithm implementation"
 
 [dependencies]
